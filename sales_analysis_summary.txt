@@ -1,0 +1,4 @@
+Sales Analysis Summary - Generated on 2026-04-14
+==================================================
+Total Sales: $2,261,536.78
+Top Category: Technology
